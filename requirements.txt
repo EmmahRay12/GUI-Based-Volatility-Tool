@@ -1,0 +1,4 @@
+psutil>=5.9.0
+flask>=3.0.0
+colorama>=0.4.6
+pandas>=2.0.0
