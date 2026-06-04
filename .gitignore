@@ -1,0 +1,15 @@
+# Generated Reports
+reports/
+*.json
+*.txt
+*.csv
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
